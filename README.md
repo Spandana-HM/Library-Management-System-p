@@ -1,3 +1,4 @@
+
 # DevRev On-Campus Project Round
 
 Library Management using MERN is a full-stack web application that allows users to manage books, borrowers, and borrowing transactions in a library setting. It utilizes the MERN stack, which includes MongoDB for the database, Express.js for the server, React.js for the frontend, and Node.js for the backend. With this application, users can perform operations such as adding new books, tracking borrowed books, managing borrower details, and generating reports. The application provides an intuitive and user-friendly interface for efficient library management.
@@ -95,3 +96,5 @@ If you have any feedback, please reach out to us at anuragraushan373@gmail.com
 ## Profile Edit Page
 
 ![profile](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/profileEdit.jpg?raw=true)
+
+
